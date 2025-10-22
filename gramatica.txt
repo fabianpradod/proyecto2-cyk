@@ -1,13 +1,8 @@
-S -> N P V P
-V P -> V P P P
-V P -> V N P
-V P -> cooks | drinks | eats | cuts
-P P -> P N P
-N P -> Det N
-N P -> he | she
+S -> NP VP
+VP -> VP PP | V NP | V
+PP -> P NP
+NP -> Det N | he | she
 V -> cooks | drinks | eats | cuts
 P -> in | with
-N -> cat | dog
-N -> beer | cake | juice | meat | soup
-N -> fork | knife | oven | spoon
+N -> cat | dog | beer | cake | juice | meat | soup | fork | knife | oven | spoon
 Det -> a | the

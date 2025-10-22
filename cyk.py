@@ -3,7 +3,7 @@ from __future__ import annotations
 from typing import Dict, List, Mapping, Sequence, Set, Tuple
 from time import perf_counter
 
-from cnf import CNFGrammar  # ya existente
+from cnf import CNFGrammar 
 
 Symbol = str
 Token = str
