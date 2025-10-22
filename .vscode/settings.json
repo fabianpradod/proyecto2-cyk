@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/Users/fabianprado/.venvs/base-ds/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.diagnosticMode": "workspace"
+}
